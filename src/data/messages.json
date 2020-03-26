@@ -1,211 +1,241 @@
 [{
-  "id": "1c94823e-f7a1-443b-87e3-26ca7677aa2b",
-  "sender_name": "Clevie Hinchcliffe",
-  "sent_timestamp": "8/22/2019",
-  "subject": "ut erat id mauris",
-  "body": "Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.\n\nMorbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",
-  "read": false
+  "id": "3c33bb08-0dad-45b6-991e-8328d3783585",
+  "sender_name": "Daisi Skerme",
+  "sent_timestamp": "7/27/2019",
+  "subject": "curabitur convallis duis",
+  "body": "In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.",
+  "read": true,
+  "hasAttachments": true
 }, {
-  "id": "58c2b35b-3aa5-4837-aeb6-285e4fee0ed9",
-  "sender_name": "Troy Bowles",
-  "sent_timestamp": "2/19/2020",
-  "subject": "in faucibus",
-  "body": "Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.\n\nSed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.\n\nPellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.",
-  "read": true
+  "id": "4a7cde74-b063-437d-851a-9b0a3e94b1d4",
+  "sender_name": "Bucky Mylan",
+  "sent_timestamp": "11/21/2019",
+  "subject": "ut mauris eget",
+  "body": "Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.",
+  "read": false,
+  "hasAttachments": false
 }, {
-  "id": "ae9073a5-7047-42b8-b1db-f49e43a4adb4",
-  "sender_name": "Kalindi Cluney",
-  "sent_timestamp": "10/13/2019",
-  "subject": "magna bibendum imperdiet",
-  "body": "Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.",
-  "read": false
+  "id": "33a1bda1-88c8-40ad-8397-eab7d873ba64",
+  "sender_name": "Vannie Madders",
+  "sent_timestamp": "11/23/2019",
+  "subject": "hac habitasse platea",
+  "body": "Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.",
+  "read": true,
+  "hasAttachments": false
 }, {
-  "id": "a4aeb500-18a9-468d-9696-d7b1833b67e1",
-  "sender_name": "Georgie Manneville",
-  "sent_timestamp": "9/14/2019",
-  "subject": "lacus at",
-  "body": "Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.\n\nIn quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.\n\nMaecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.",
-  "read": false
+  "id": "d3e615a0-eb8f-46be-829e-37257e8dc3b6",
+  "sender_name": "Veriee Hanhart",
+  "sent_timestamp": "12/17/2019",
+  "subject": "quisque ut erat",
+  "body": "Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.\n\nVestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.\n\nIn congue. Etiam justo. Etiam pretium iaculis justo.",
+  "read": false,
+  "hasAttachments": true
 }, {
-  "id": "bf4c193d-8ef9-4e9b-899c-5432734ef875",
-  "sender_name": "Vasili Conkie",
-  "sent_timestamp": "9/7/2019",
-  "subject": "laoreet ut rhoncus aliquet",
-  "body": "Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.\n\nMorbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.\n\nFusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",
-  "read": false
-}, {
-  "id": "fc60b5e6-57c2-4a73-9b95-4c0687c17b8c",
-  "sender_name": "Verge Edmeads",
-  "sent_timestamp": "1/20/2020",
-  "subject": "sit amet turpis elementum",
-  "body": "Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.\n\nMorbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",
-  "read": false
-}, {
-  "id": "13ee6a43-b244-40eb-bba8-950b14f22887",
-  "sender_name": "Sybila Dauncey",
-  "sent_timestamp": "2/1/2020",
-  "subject": "nec nisi volutpat eleifend",
-  "body": "Sed ante. Vivamus tortor. Duis mattis egestas metus.\n\nAenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",
-  "read": true
-}, {
-  "id": "ec974af8-0460-43b2-b1cc-34ce2fab3c27",
-  "sender_name": "Germaine Cuttell",
-  "sent_timestamp": "4/21/2019",
-  "subject": "semper est quam",
-  "body": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
-  "read": false
-}, {
-  "id": "acd0615b-e1eb-4693-9b34-2f11643b3008",
-  "sender_name": "Sheree Bending",
-  "sent_timestamp": "10/29/2019",
-  "subject": "vestibulum eget",
-  "body": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\n\nEtiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.",
-  "read": true
-}, {
-  "id": "61f60275-c33c-4191-80f1-73a70d2614d4",
-  "sender_name": "Walker Lade",
-  "sent_timestamp": "1/14/2020",
-  "subject": "amet nunc viverra dapibus",
-  "body": "Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.",
-  "read": true
-}, {
-  "id": "1729f223-ea5a-49ee-bdf1-5082c4750ec9",
-  "sender_name": "Herculie Scarce",
-  "sent_timestamp": "9/3/2019",
-  "subject": "in sapien",
-  "body": "Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.\n\nCras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
-  "read": false
-}, {
-  "id": "c23852c7-4340-454f-a6cc-5fc9062289e3",
-  "sender_name": "Celestia Bourgour",
-  "sent_timestamp": "1/28/2020",
-  "subject": "tempus semper est",
-  "body": "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.",
-  "read": false
-}, {
-  "id": "acd78596-06e4-4cee-a041-9efa435ad083",
-  "sender_name": "Natividad Gytesham",
-  "sent_timestamp": "4/8/2019",
-  "subject": "neque aenean auctor",
-  "body": "Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.\n\nInteger tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.",
-  "read": false
-}, {
-  "id": "0ef8e423-0a52-422a-b507-c89366489e59",
-  "sender_name": "Johnathan Alfonzo",
-  "sent_timestamp": "11/29/2019",
-  "subject": "in libero ut massa volutpat",
-  "body": "Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.\n\nDuis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.",
-  "read": true
-}, {
-  "id": "fae6ab48-c6f7-4ad1-b8b4-d44ae5e0ae12",
-  "sender_name": "Frazier Stenner",
-  "sent_timestamp": "10/3/2019",
-  "subject": "in faucibus orci luctus et",
+  "id": "8aa09637-7b5f-42ec-bb1b-a59298a20256",
+  "sender_name": "Nye Seamer",
+  "sent_timestamp": "11/30/2019",
+  "subject": "diam id ornare imperdiet",
   "body": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.\n\nIn congue. Etiam justo. Etiam pretium iaculis justo.",
-  "read": false
+  "read": false,
+  "hasAttachments": true
 }, {
-  "id": "cdca0a2b-7a6c-4894-8ab9-38a95d830c40",
-  "sender_name": "Dara Catford",
-  "sent_timestamp": "11/8/2019",
-  "subject": "risus semper porta volutpat",
-  "body": "Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.\n\nPhasellus in felis. Donec semper sapien a libero. Nam dui.\n\nProin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",
-  "read": false
+  "id": "05ce965b-34ec-4d2c-aa5f-109db1761d4f",
+  "sender_name": "Nathan Hasard",
+  "sent_timestamp": "11/29/2019",
+  "subject": "nulla suspendisse potenti",
+  "body": "Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.",
+  "read": false,
+  "hasAttachments": true
 }, {
-  "id": "bac070a7-2471-486a-9909-331a39ba4bd2",
-  "sender_name": "Nerte Roddan",
-  "sent_timestamp": "3/2/2020",
-  "subject": "ut erat id mauris",
-  "body": "Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.\n\nPraesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.\n\nMorbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",
-  "read": true
+  "id": "7843e7fb-deee-490b-9eda-1d3a2e9b7606",
+  "sender_name": "Cristobal Stobbe",
+  "sent_timestamp": "10/21/2019",
+  "subject": "purus phasellus",
+  "body": "Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.\n\nPraesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",
+  "read": true,
+  "hasAttachments": false
 }, {
-  "id": "b4b0ccff-23c0-4bf0-b60a-10a235f0740e",
-  "sender_name": "Travus Vanyard",
-  "sent_timestamp": "4/29/2019",
-  "subject": "ultrices enim lorem ipsum",
-  "body": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.\n\nIn congue. Etiam justo. Etiam pretium iaculis justo.\n\nIn hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.",
-  "read": true
+  "id": "a60b7295-d4d7-4ea7-b329-eabcad80434d",
+  "sender_name": "Zeke Becket",
+  "sent_timestamp": "9/14/2019",
+  "subject": "vehicula consequat morbi a ipsum",
+  "body": "Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.\n\nNullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.\n\nMorbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",
+  "read": true,
+  "hasAttachments": false
 }, {
-  "id": "68746368-fc5c-467d-83a2-9bf80fd5c186",
-  "sender_name": "Jeni Milnes",
-  "sent_timestamp": "10/24/2019",
-  "subject": "pede libero quis",
-  "body": "Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.\n\nMauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.\n\nNullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.",
-  "read": true
+  "id": "75017994-cb3c-453c-b06c-849e80b53b38",
+  "sender_name": "Susanna Songust",
+  "sent_timestamp": "12/3/2019",
+  "subject": "curabitur in libero",
+  "body": "Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.\n\nQuisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",
+  "read": false,
+  "hasAttachments": false
 }, {
-  "id": "8a6638ac-f36b-41ff-870a-425407143410",
-  "sender_name": "Claudia Waylen",
-  "sent_timestamp": "11/6/2019",
-  "subject": "turpis a",
-  "body": "Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.",
-  "read": true
+  "id": "d17b721c-1ac3-45dd-9b83-2d5e56520391",
+  "sender_name": "Lurlene Rainsdon",
+  "sent_timestamp": "11/13/2019",
+  "subject": "suspendisse ornare consequat",
+  "body": "Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.\n\nIn hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.",
+  "read": false,
+  "hasAttachments": false
 }, {
-  "id": "92bbff14-40e9-4e65-a6e6-ab767ccfa42e",
-  "sender_name": "Janel Greggersen",
-  "sent_timestamp": "12/7/2019",
-  "subject": "molestie nibh in lectus pellentesque",
-  "body": "Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.\n\nCurabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.\n\nPhasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.",
-  "read": true
+  "id": "b3973275-5393-4263-819d-617989c4c350",
+  "sender_name": "Constantino Lebond",
+  "sent_timestamp": "8/12/2019",
+  "subject": "est quam",
+  "body": "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.",
+  "read": true,
+  "hasAttachments": true
 }, {
-  "id": "6d9cdfbb-2b8e-438f-89d2-656c3f6ce6fd",
-  "sender_name": "Bobbie Foden",
-  "sent_timestamp": "1/16/2020",
-  "subject": "vel augue",
-  "body": "Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.\n\nPraesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.",
-  "read": true
+  "id": "32fc1df4-21f4-4176-9d01-e2e63e3159f2",
+  "sender_name": "Susie Rowcastle",
+  "sent_timestamp": "3/8/2020",
+  "subject": "parturient montes nascetur",
+  "body": "Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.\n\nMaecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.\n\nNullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.",
+  "read": true,
+  "hasAttachments": true
 }, {
-  "id": "46222344-6d1b-47a1-8c22-4d9e41fc4965",
-  "sender_name": "Bank Blaw",
-  "sent_timestamp": "8/14/2019",
-  "subject": "ridiculus mus vivamus",
-  "body": "Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.\n\nCurabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.\n\nPhasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.",
-  "read": false
+  "id": "c2821560-d169-4810-8da6-93dfbaa1097d",
+  "sender_name": "Josefa Veivers",
+  "sent_timestamp": "5/18/2019",
+  "subject": "ipsum aliquam non mauris",
+  "body": "Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.\n\nIn sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",
+  "read": false,
+  "hasAttachments": false
 }, {
-  "id": "5ce9cfd2-50f6-4e43-b7c1-c8aa3a89a2a8",
-  "sender_name": "Baily Alwell",
-  "sent_timestamp": "1/4/2020",
-  "subject": "libero quis orci",
-  "body": "Sed ante. Vivamus tortor. Duis mattis egestas metus.",
-  "read": false
-}, {
-  "id": "8d73213a-72e4-4b06-93aa-7d3c0ee086a7",
-  "sender_name": "Golda Ghidoni",
-  "sent_timestamp": "10/16/2019",
-  "subject": "sit amet eros suspendisse accumsan",
-  "body": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\n\nEtiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.",
-  "read": true
-}, {
-  "id": "519e5de9-a6d7-46b3-87e6-0c4d9470b190",
-  "sender_name": "Viviyan Cordrey",
-  "sent_timestamp": "2/24/2020",
-  "subject": "potenti cras in purus",
+  "id": "5ac25f08-2254-4fd2-a146-bafd55b10bc9",
+  "sender_name": "Waverley Godrich",
+  "sent_timestamp": "7/19/2019",
+  "subject": "est et tempus semper",
   "body": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.\n\nVestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.\n\nDuis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.",
-  "read": true
+  "read": true,
+  "hasAttachments": true
 }, {
-  "id": "793f3b4a-8dcd-48fc-b440-5ff6818c604d",
-  "sender_name": "Moina Vanyushin",
-  "sent_timestamp": "9/23/2019",
-  "subject": "elementum eu",
+  "id": "ce985c7e-04aa-4f79-af3d-7b1b0e1d9c5f",
+  "sender_name": "Johny Burchell",
+  "sent_timestamp": "6/4/2019",
+  "subject": "vivamus metus",
+  "body": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.\n\nVestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.",
+  "read": true,
+  "hasAttachments": false
+}, {
+  "id": "7950bc59-a498-44d8-afc3-2ac5b3e74d53",
+  "sender_name": "Pennie Connah",
+  "sent_timestamp": "6/18/2019",
+  "subject": "donec pharetra magna",
+  "body": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.\n\nAliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.",
+  "read": false,
+  "hasAttachments": true
+}, {
+  "id": "3e43021d-cca6-4b14-8604-fd51349ddbe3",
+  "sender_name": "Waylen Saurin",
+  "sent_timestamp": "9/24/2019",
+  "subject": "mauris non",
   "body": "Phasellus in felis. Donec semper sapien a libero. Nam dui.\n\nProin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",
-  "read": true
+  "read": true,
+  "hasAttachments": false
 }, {
-  "id": "2fc636e5-6c0f-4b56-bfbd-00e2c90913f5",
-  "sender_name": "Rab Gothliff",
-  "sent_timestamp": "1/15/2020",
-  "subject": "neque sapien placerat",
-  "body": "Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.\n\nInteger tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.",
-  "read": true
+  "id": "5bd6f964-9fa9-4e8c-8666-696c47649d5d",
+  "sender_name": "Emlyn McMyler",
+  "sent_timestamp": "11/3/2019",
+  "subject": "aenean fermentum",
+  "body": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",
+  "read": true,
+  "hasAttachments": false
 }, {
-  "id": "8edaf3ad-07c0-4266-b427-087e8e3e74e7",
-  "sender_name": "Mervin Drinkwater",
-  "sent_timestamp": "8/13/2019",
-  "subject": "consectetuer adipiscing elit proin interdum",
-  "body": "Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.\n\nCurabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",
-  "read": false
+  "id": "68e87fd6-4536-4395-a9ef-f9406df13ff9",
+  "sender_name": "Maxie Thake",
+  "sent_timestamp": "2/2/2020",
+  "subject": "tortor duis mattis egestas metus",
+  "body": "Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.\n\nProin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",
+  "read": true,
+  "hasAttachments": true
 }, {
-  "id": "52a1759b-8dd3-4218-898e-982acc38e614",
-  "sender_name": "Farley Craske",
-  "sent_timestamp": "1/20/2020",
-  "subject": "velit eu est",
-  "body": "Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.\n\nProin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.\n\nAenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.",
-  "read": false
+  "id": "d9d202d4-bd4a-4ba4-8080-4bc1938aeaf7",
+  "sender_name": "Leeanne McClinton",
+  "sent_timestamp": "2/3/2020",
+  "subject": "maecenas tristique est et tempus",
+  "body": "Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.\n\nIn hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.\n\nAliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.",
+  "read": true,
+  "hasAttachments": false
+}, {
+  "id": "6420ec4f-e460-47e7-bc97-8fa7707a0d53",
+  "sender_name": "Hermie Wyllcocks",
+  "sent_timestamp": "12/13/2019",
+  "subject": "lacinia aenean sit",
+  "body": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.\n\nAenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.",
+  "read": true,
+  "hasAttachments": false
+}, {
+  "id": "053dba9c-441a-41a5-87c7-5ba371f1f146",
+  "sender_name": "Ellynn Leate",
+  "sent_timestamp": "10/30/2019",
+  "subject": "vestibulum ante ipsum primis",
+  "body": "Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.\n\nIn sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.\n\nSuspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.",
+  "read": false,
+  "hasAttachments": true
+}, {
+  "id": "fda14101-444a-4694-80a9-a273616a6b69",
+  "sender_name": "Kori Piell",
+  "sent_timestamp": "7/12/2019",
+  "subject": "suspendisse potenti cras",
+  "body": "Sed ante. Vivamus tortor. Duis mattis egestas metus.",
+  "read": false,
+  "hasAttachments": true
+}, {
+  "id": "4043bfb0-95d2-424c-b2a1-312bc0c78316",
+  "sender_name": "Collin Kelson",
+  "sent_timestamp": "5/16/2019",
+  "subject": "ultrices posuere",
+  "body": "Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.\n\nIn sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.\n\nSuspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.",
+  "read": true,
+  "hasAttachments": true
+}, {
+  "id": "2657ad30-8519-45f8-8403-939f4ad88720",
+  "sender_name": "Merissa Looby",
+  "sent_timestamp": "7/11/2019",
+  "subject": "elementum nullam varius nulla facilisi",
+  "body": "In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.\n\nNulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.\n\nCras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.",
+  "read": true,
+  "hasAttachments": false
+}, {
+  "id": "cb954f73-4572-4698-b457-d835be43b319",
+  "sender_name": "Alano Heal",
+  "sent_timestamp": "4/25/2019",
+  "subject": "cursus urna",
+  "body": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.\n\nVestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.",
+  "read": false,
+  "hasAttachments": true
+}, {
+  "id": "cc2e96b2-ab47-4712-af9a-3a0c5c3de18e",
+  "sender_name": "Leanor McCree",
+  "sent_timestamp": "12/4/2019",
+  "subject": "leo pellentesque ultrices mattis",
+  "body": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.\n\nVestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.",
+  "read": true,
+  "hasAttachments": false
+}, {
+  "id": "8fa53915-55bb-4e29-a53d-9a314a1fba28",
+  "sender_name": "Tessa McFall",
+  "sent_timestamp": "9/27/2019",
+  "subject": "rutrum nulla",
+  "body": "Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.\n\nSed ante. Vivamus tortor. Duis mattis egestas metus.",
+  "read": false,
+  "hasAttachments": false
+}, {
+  "id": "8fedc6f7-6c9d-45be-a7df-8cbabcd614a3",
+  "sender_name": "Bendick Chalcraft",
+  "sent_timestamp": "12/10/2019",
+  "subject": "justo etiam pretium",
+  "body": "Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.\n\nVestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.\n\nIn congue. Etiam justo. Etiam pretium iaculis justo.",
+  "read": false,
+  "hasAttachments": false
+}, {
+  "id": "078b9090-84fc-4932-9220-44d0e2c18bdb",
+  "sender_name": "Ernie Suff",
+  "sent_timestamp": "7/16/2019",
+  "subject": "turpis eget elit sodales",
+  "body": "Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.\n\nPellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.",
+  "read": false,
+  "hasAttachments": false
 }]
