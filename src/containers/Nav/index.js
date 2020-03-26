@@ -1,5 +1,5 @@
 import React from 'react'
-import folders from '../../data/folders.json'
+import folders from '../../data/folders'
 import NavButton from '../../components/NavButton'
 import { NavContainer } from './styled'
 
@@ -8,7 +8,7 @@ const NavView = () => {
     <NavContainer>
       {
         folders.map(folder => {
-          return <NavButton key={`folder_${folder.label}`} label={folder.label} />
+          return <NavButton key={`folder_${folder.label}`} label={folder.label} icon={folder.icon}/>
         })
       }
     </NavContainer>

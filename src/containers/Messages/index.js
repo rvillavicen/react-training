@@ -1,9 +1,12 @@
 import React from 'react'
 import SearchBar from '../../components/SearchBar'
+import { MessagesContainer } from './styled'
 
 const Messages = () => {
   return (
-    <SearchBar />
+    <MessagesContainer>
+      <SearchBar />
+    </MessagesContainer>
   )
 }
 

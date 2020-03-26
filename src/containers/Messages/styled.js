@@ -1,7 +1,7 @@
 import styled from 'styled-components'
 
-export const NavContainer = styled.div`
+export const MessagesContainer = styled.div`
   display: flex;
   flex-direction: column;
-  width: 300px;
+  width: 500px;
 `
