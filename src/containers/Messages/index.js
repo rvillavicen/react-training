@@ -1,13 +1,51 @@
-import React from 'react'
+import React, { PureComponent } from 'react'
 import SearchBar from '../../components/SearchBar'
 import { MessagesContainer } from './styled'
+import PreviewMessage from '../../components/PreviewMessage'
+import messages from '../../data/messages.json'
 
-const Messages = () => {
-  return (
-    <MessagesContainer>
-      <SearchBar />
-    </MessagesContainer>
-  )
+class Messages extends PureComponent {
+  state = {
+    messages
+  }
+
+  handleOnClick = id => {
+    const messages = [...this.state.messages]
+    const updatedState = messages.map(m => {
+      if(m.id === id){
+        m.read = true
+      }
+      return m
+    })
+
+    this.setState({
+      messages: updatedState
+    })
+  }
+
+  render() {
+    return (
+      <MessagesContainer>
+        <SearchBar />
+        {
+          messages.map(message => {
+            return (
+              <PreviewMessage 
+                key={message.id}
+                senderName={message.sender_name}
+                timestamp={message.sent_timestamp}
+                subject={message.subject}
+                body={message.body}
+                isRead={message.read}
+                hasAttachments={message.hasAttachments}
+                onClick={() => this.handleOnClick(message.id)}
+              />
+            )
+          })
+        }
+      </MessagesContainer>
+    )
+  }
 }
 
 export default Messages

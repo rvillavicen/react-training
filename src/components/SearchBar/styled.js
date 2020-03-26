@@ -23,7 +23,7 @@ export const SearchBarInput = styled.input`
   }
 `
 
-export const SearchIcon = styled.div`
+export const SearchIcon = styled.span`
   position: absolute;
   font-size: 2rem;
   top: calc(50% - 1.5rem);

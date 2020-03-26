@@ -15,18 +15,13 @@ class SearchBar extends PureComponent {
 
 
   render() {
-    const { showIcon } = this.props;
     return(
       <SearchBarContainer>
-        <SearchIcon>🔎</SearchIcon>
+        <SearchIcon role="img" ariaLabel="looking glass icon">🔎</SearchIcon>
         <SearchBarInput placeholder="Search mail..." value={this.state.searchValue} onChange={this.handleOnChange} />
       </SearchBarContainer>
     )
   }
-}
-
-SearchBar.propTypes = {
-  showIcon: PropTypes.bool
 }
 
 export default SearchBar;
