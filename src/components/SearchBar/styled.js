@@ -15,6 +15,7 @@ export const SearchBarInput = styled.input`
   width: 100%;
   border: 2px solid #eee;
   font-size: 1.2rem;
+  color: #aaa;
   
   &::placeholder {
     font-size: 1.2rem;
@@ -25,7 +26,9 @@ export const SearchBarInput = styled.input`
 
 export const SearchIcon = styled.span`
   position: absolute;
-  font-size: 2rem;
-  top: calc(50% - 1.5rem);
+  font-size: 1.5rem;
+  top: 30px;
   left: 15px;
+  display: block;
+  color: #aaa;
 `

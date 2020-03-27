@@ -1,6 +1,6 @@
 import React, { PureComponent } from 'react'
-import PropTypes from 'prop-types'
 import { SearchBarInput, SearchBarContainer, SearchIcon } from './styled'
+import { FaSearch } from 'react-icons/fa'
 
 class SearchBar extends PureComponent {
   state = {
@@ -17,7 +17,9 @@ class SearchBar extends PureComponent {
   render() {
     return(
       <SearchBarContainer>
-        <SearchIcon role="img" ariaLabel="looking glass icon">🔎</SearchIcon>
+        <SearchIcon>
+          <FaSearch />
+        </SearchIcon>
         <SearchBarInput placeholder="Search mail..." value={this.state.searchValue} onChange={this.handleOnChange} />
       </SearchBarContainer>
     )

@@ -1,6 +1,6 @@
 import React, { PureComponent } from 'react'
 import SearchBar from '../../components/SearchBar'
-import { MessagesContainer } from './styled'
+import { MessagesContainer, MessageList } from './styled'
 import PreviewMessage from '../../components/PreviewMessage'
 import messages from '../../data/messages.json'
 
@@ -27,6 +27,7 @@ class Messages extends PureComponent {
     return (
       <MessagesContainer>
         <SearchBar />
+        <MessageList>
         {
           messages.map(message => {
             return (
@@ -43,6 +44,7 @@ class Messages extends PureComponent {
             )
           })
         }
+        </MessageList>
       </MessagesContainer>
     )
   }

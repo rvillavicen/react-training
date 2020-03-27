@@ -8,7 +8,7 @@ const PreviewMessage = ({ id, senderName, timestamp, subject, body, isRead, hasA
 
   return(
     <MessageContainer key={id} isRead={isRead} onClick={onClick}>
-      <MessageHeader>
+      <MessageHeader isRead={isRead}>
         <div>{`${senderName} - ${subject}`}</div>
         <div>{timestamp}</div>
       </MessageHeader>
