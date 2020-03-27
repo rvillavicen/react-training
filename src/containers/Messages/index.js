@@ -2,11 +2,19 @@ import React, { PureComponent } from 'react'
 import SearchBar from '../../components/SearchBar'
 import { MessagesContainer, MessageList } from './styled'
 import PreviewMessage from '../../components/PreviewMessage'
-import messages from '../../data/messages.json'
 
 class Messages extends PureComponent {
-  state = {
-    messages
+
+  constructor(props) {
+    super(props)
+
+    this.state = {
+      messages: JSON.parse(localStorage.getItem('messages'))
+    }
+  }
+
+  updateLocalStorage = () => {
+    localStorage.setItem('messages', JSON.stringify(this.state.messages))
   }
 
   handleOnClick = id => {
@@ -20,7 +28,7 @@ class Messages extends PureComponent {
 
     this.setState({
       messages: updatedState
-    })
+    }, this.updateLocalStorage())
   }
 
   render() {
@@ -36,7 +44,7 @@ class Messages extends PureComponent {
         
         <MessageList>
         {
-          messages.map(message => {
+          this.state.messages.map(message => {
             return (
               <PreviewMessage 
                 key={message.id}
