@@ -7,10 +7,15 @@ export const MessageContainer = styled.div`
   height: 128px;
   width: 100%;
   font-weight: ${props => props.isRead ? 'normal' : 'bold'};
-  background-color: ${props => props.isRead ? '#fafafa' : '#fff'};
+  background-color: ${props => props.isRead ? '#fff' : '#fafafa'};
   overflow: hidden;
-  border: 1px solid #fafafa;
+  border: 1px solid #eee;
   cursor: pointer;
+
+  &:hover {
+    background-color: rgba(99,101,151, 0.1);
+    border-color: rgb(99,101,151);
+  }
 `
 
 export const Violator = styled.div`
@@ -44,4 +49,6 @@ export const MessageBody = styled.div`
   padding-left: 75px;
   padding-right: 35px;
   padding-bottom: 20px;
+  color: #B5B5B5;
+  font-weight: normal;
 `
