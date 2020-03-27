@@ -26,7 +26,14 @@ class Messages extends PureComponent {
   render() {
     return (
       <MessagesContainer>
-        <SearchBar />
+        <div style={{
+          position: 'sticky',
+          top: 0,
+          zIndex: 100
+        }}>
+          <SearchBar />
+        </div>
+        
         <MessageList>
         {
           messages.map(message => {

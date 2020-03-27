@@ -26,6 +26,8 @@ export const MessageHeader = styled.div`
   display: flex;
   margin-bottom: 1.3rem;
   padding-left: 1rem;
+  justify-content: space-between;
+  padding-right: 10px;
 
   &:before {
     visibility: ${props => props.isRead ? 'hidden' : 'visible'};
@@ -46,9 +48,20 @@ export const MessageHeader = styled.div`
 
 export const MessageBody = styled.div`
   display: flex;
-  padding-left: 75px;
+  padding-left: 5px;
   padding-right: 35px;
   padding-bottom: 20px;
   color: #B5B5B5;
   font-weight: normal;
+`
+
+export const AttachmentIcon = styled.div`
+  visibility: ${props => props.hasAttachments ? 'visible' : 'hidden'};
+  width: 75px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-end;
+  color: #B5B5B5;
+  font-size: 1rem;
+  margin-right: 5px;
 `

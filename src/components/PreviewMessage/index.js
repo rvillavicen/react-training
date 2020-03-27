@@ -1,9 +1,9 @@
 import React from 'react'
-import { MessageContainer, MessageHeader, MessageBody } from './styled'
-
+import { MessageContainer, MessageHeader, MessageBody, AttachmentIcon } from './styled'
+import { FaPaperclip } from 'react-icons/fa'
 const PreviewMessage = ({ id, senderName, timestamp, subject, body, isRead, hasAttachments, onClick }) => {
   const truncateString = s => {
-    return s.substring(0, 300)
+    return s.substring(0, 140)
   }
 
   return(
@@ -13,8 +13,8 @@ const PreviewMessage = ({ id, senderName, timestamp, subject, body, isRead, hasA
         <div>{timestamp}</div>
       </MessageHeader>
       <MessageBody>
-        {hasAttachments && <span>A</span>}
-        {truncateString(body)}
+        <AttachmentIcon hasAttachments={hasAttachments}><FaPaperclip /></AttachmentIcon>
+        <div style={{ width: 415 }}>{truncateString(body)}</div>
       </MessageBody>
     </MessageContainer>
   )
